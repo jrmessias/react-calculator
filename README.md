@@ -6,7 +6,7 @@ Projeto de calculadora para estudo de tecnologias front-end.
 
 **Front-end:**
 - [Vite 4](https://vitejs.dev/)
-- [React 18](https://vuejs.org/)
+- [React 18](https://pt-br.reactjs.org/)
 - [Vite PWA](https://vite-pwa-org.netlify.app/)
 - [Tailwind CSS 3](https://tailwindcss.com/)
 - Deploy - [Netlify](https://www.netlify.com/)
