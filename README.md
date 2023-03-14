@@ -40,7 +40,7 @@ _Utilize o atalho de teclado `o` para abrir no navegador._
 
 ## Online
 
-Deploy por [Netlify](jrmessias-react-calculator.netlify.app)
+Deploy por [Netlify](https://jrmessias-react-calculator.netlify.app/)
 
 ## Licença
 
