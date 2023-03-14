@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  body{
+    @apply bg-slate-900 text-slate-100;
+  }
+
+  .calculator{
+    @apply bg-slate-800 w-80 mx-auto mt-10 p-4 rounded-lg shadow-lg
+  }
+
+  .input{
+    @apply w-full text-right py-4 px-5 text-2xl bg-transparent text-slate-300 rounded-lg
+  }
+
+  .buttons{
+    @apply grid grid-cols-4 gap-4 mt-4 px-4
+  }
+
+  button{
+    @apply transition duration-300 active:translate-x-0.5 text-xl
+  }
+
+  .operator{
+    @apply bg-gradient-to-t from-slate-700 to-slate-600 text-slate-200 rounded-lg p-2 shadow hover:ring-2 ring-slate-600
+  }
+
+  .number{
+    @apply bg-gradient-to-t from-slate-500 to-slate-600 text-slate-800 rounded-lg p-2 shadow  shadow hover:ring-2 ring-slate-500
+  }
+}
