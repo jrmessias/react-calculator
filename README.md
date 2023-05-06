@@ -42,6 +42,8 @@ _Utilize o atalho de teclado `o` para abrir no navegador._
 
 Deploy por [Netlify](https://jrmessias-react-calculator.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60b44cb0-2c68-4711-8f14-cca83a6c40eb/deploy-status)](https://app.netlify.com/sites/jrmessias-react-calculator/deploys)
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
